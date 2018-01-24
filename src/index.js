@@ -1,9 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
+import getRouter from "./router/router";
 
-import Hello from './component/Hello';
-
-ReactDOM.render(
-   <Hello/>,
-    document.getElementById('app')
-)
+ReactDOM.render(getRouter(), document.getElementById("app"));

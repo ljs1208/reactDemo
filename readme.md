@@ -10,7 +10,11 @@ path 里面添加 %NODE_PATH%
 (2) babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0
 
 (3) react react-dom
+npm install webpack-dev-server -g
 
+npm i -g typescript@next
+
+tsd install react-global --save
 使用步骤
 
 1.
