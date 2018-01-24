@@ -25,6 +25,7 @@
         "dev-build": "^1.1.0",
         "eslint-plugin-jsx-a11y": "^6.0.3",
         "eslint-plugin-react": "^7.5.1",
+        "react-hot-loader": "^4.0.0-beta.17",
         "webpack": "^3.10.0",
         "webpack-dev-server": "^2.11.1"
     },
