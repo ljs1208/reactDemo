@@ -15,6 +15,8 @@ npm install webpack-dev-server -g
 npm i -g typescript@next
 
 tsd install react-global --save
+
+react-hot-loader
 使用步骤
 
 1.
